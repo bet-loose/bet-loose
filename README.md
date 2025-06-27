@@ -62,3 +62,106 @@ Design inspirado em grandes cassinos digitais, mas com ícones de boizinho (talv
 Humor ágil e irônico, como em Rick and Morty ou South Park, onde o entretenimento anda de mãos dadas com crítica social.
 
 Base legal pode incluir links para políticas de jogo responsável e um manifesto claro: "Este jogo existe para divertir, mas também para mostrar como você nunca aposta contra o sistema — você aposta dentro dele."
+
+# 🎭 Personagens
+🐮 O mascote oficial e porta-voz do sistema é o Professor Boi, Sarcástico, cruelmente honesto e cheio de frases tipo: “Você jogou? Parabéns. O sistema também. E adivinha quem ganhou de novo?” (Isso é muito o que o Ederson(Boi) falaria na sala de aula hahaha)
+
+💻 A Casa – Vai ter uma logo que iremos criar talvez como referencia a logo da cerveja caracu (logo antiga)
+
+👥 Jogadores – São os vaqueiros da ilusão, cada um com seu estilo:
+
+O Teimoso, que acredita em sorte acumulada
+
+O Estrategista, que faz Excel achando que dribla o RNG
+
+O Reciclador, que sempre joga o que acabou de ganhar
+
+O Novo, que ainda acha que vai se dar bem
+Obs: todos vão ter estetica diferente, e cada um vai ter um slot, ficando no total 4 slots com "jogadores/apostadores/rivais" diferentes.
+
+# 📜 Regras
+4 jogadores por sessão, cada um com o seu "boizinho virtual" como foi falado anteriormente, apostando simultaneamente
+
+Quem ganhar mais em multiplicadores leva o valor dos 3 que ganharam menos
+
+Após cada rodada, o sistema mostra:
+
+Ganhos, perdas e saldo líquido
+
+Chance de vitória da próxima rodada (com sarcasmo incluso) <- Sarcasmo vai ser a base do nosso jogo, da pra se perceber hahaha
+
+Frases educacionais debochadas que esfregam a realidade na tela
+
+O HUD exibe constantemente:
+
+RTP individual e global
+
+Gráfico de lucro da casa
+
+Simulações de perda em longo prazo
+
+"Fator Engano" — uma barra que cresce quando o jogador começa a se iludir
+
+Agora você se pergunta, o que seria esse "Fator Engano"? Então, basicamente o Fator Engano — é o melhor amigo do apostador confiante e o pior inimigo das planilhas de esperança.
+
+No universo do Bet do Boizinho, o Fator Engano é uma barra (ou indicador animado) que mede, de forma sarcástica e visual, o quanto o jogador está se iludindo naquele momento da sessão. Ele funciona como um termômetro emocional-irônico que cresce conforme o jogador:
+
+Continua jogando após várias derrotas acreditando que “agora vai”
+
+Repete estratégias fracassadas esperando resultados diferentes
+
+Aumenta o valor da aposta pra recuperar perdas
+
+Ignora avisos visuais como “Você perdeu 9 das últimas 10”
+
+Se recusa a sair mesmo quando está positivo
+
+Exemplos de níveis do Fator Engano™:
+Nível 1 — Confiante Inocente: "Talvez hoje seja meu dia."
+
+Nível 3 — Teimoso Profissional: "Não é possível, o jogo tá virando."
+
+Nível 5 — Mestre do Autoengano: "Já investi demais pra parar agora."
+
+Nível 7 — Iludido Honorário™: "A estatística não me conhece."
+
+Nível 10 — Patrocinador Oficial da Casa: "Ganhar é só questão de fé."
+
+O toque final? Quando o Fator Engano atinge o nível máximo, nosso Algoritmo vai mandar: > “Parabéns! Você acaba de desbloquear o modo Ilusão Completa. Aproveite a vista enquanto a estatística termina o serviço.”
+
+# 🎯 Objetivos
+
+Para o jogador:
+
+Se divertir (por pouco tempo)
+
+Perceber o funcionamento do sistema de apostas
+
+Apanhar da estatística com elegância
+
+Rir da própria teimosia ao som de forró com uma letra "zoando" com a cara do apostador e mugidos/risadas irônicos
+
+Para a plataforma:
+
+Entreter e educar com humor ácido
+
+Mostrar, com dados e deboche, que o as casas de apostas são feitas para a casa ganhar, não para ele ganhar
+
+Ser lembrada como “o único cassino que não mentiu pra mim”!!!
+Criar uma experiência fechada, com início, meio e fim, em um único dia de competição.
+
+Talvez ao final do evento, fazer um ranking sarcástico, com prêmios fictícios tipo:
+
+- O Boizinho de Ouro – O que menos perdeu, hahahaha
+
+- Beneficiário da Casa - Contribuiu tanto pro sistema que merece um agradecimento.
+
+Etc... (Pode ser feito, ou não, apenas uma ideia)
+
+# 💸 Dinâmica de Receita
+Cada jogador começa com uma quantia fixa de tijolinhos ao se inscrever no evento.
+
+O sistema não permite recarga. Acabou, acabou.
+
+
+

@@ -59,6 +59,8 @@ Gatilho com alerta: “Quer continuar ou preferir pastar com dignidade?”
 # 🔗 REFERÊNCIAS INICIAS
 Design inspirado em grandes cassinos digitais, mas com ícones de boizinho (talvez com a estetica do professor Boi).
 
+Também inspirado no livro "O jogador" escrito por Dostoiévski. Onde o autor explora quase como uma autobiografia seu relacionamento abussivo com os jogos de azar. Dando assim, repertório para a criação do jogo e do personagem moderador: o Boizinho!
+
 Humor ágil e irônico, como em Rick and Morty ou South Park, onde o entretenimento anda de mãos dadas com crítica social.
 
 Base legal pode incluir links para políticas de jogo responsável e um manifesto claro: "Este jogo existe para divertir, mas também para mostrar como você nunca aposta contra o sistema — você aposta dentro dele."

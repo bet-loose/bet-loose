@@ -30,7 +30,7 @@ A campanha narrativa gira em torno da ilusão da sorte, protagonizada por jogado
 
 Após cada rodada, o jogo apresenta:
 
-Resumo com multiplicador, aposta, ganho líquido(ou perda líquida 🤣)
+Resumo com multiplicador, aposta, ganho líquido
 
 Gráfico de tendência baseado em séries de jogos anteriores
 

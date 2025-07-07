@@ -18,7 +18,7 @@ Ranking de perdas e ganhos dos jogadores
 > Frase fixada na entrada da arena: > (Ex: 💸 “A esperança é a última que joga. E a primeira que perde.”)
 
 # 📚 ROTEIRO — Entretenimento com propósito educativo
-A campanha narrativa gira em torno da ilusão da sorte, protagonizada por jogadores que acham ter descoberto o "padrão", mas acabam engolidos pela crueza dos números. A personificação do sistema é o mascote "Seu Algoritmo", um boizinho cínico que comenta os resultados com frases como:
+A campanha narrativa gira em torno da ilusão da sorte, protagonizada por jogadores que acham ter descoberto o "padrão", mas acabam engolidos pela crueza dos números. A personificação do sistema é o mascote "Boizinho" (tentando similar ao maximo com o professor Ederson) um boizinho cínico que comenta os resultados com frases como:
 
 “Parabéns pela vitória! Pena que ela não cobre as outras 27 derrotas.”
 
@@ -40,33 +40,19 @@ Chance real da próxima rodada ajustada ao padrão estatístico da arena
 Para aprofundar o tom consciente e educativo
 
 🔍 Modo Transparência Total (ativado por padrão)
-Mostra a fórmula de cálculo do RTP
-
-Simula 100 apostas iguais àquela rodada e projeta o saldo provável
-
-🧠 Modo Despertar (aparece após 15 partidas consecutivas)
-Mostra quanto o jogador apostou, quanto perdeu/ganhou, e quanto tempo ficou jogando
-
-Gatilho com alerta: “Quer continuar ou preferir pastar com dignidade?”
-
-🏅 Conquistas invertidas, brincando com o apostador, "zoando" com a cara dele.
-"Fiel ao Prejuízo" – 100 apostas sem saldo positivo
-
-"Boizinho de Ouro" – ganhou, mas perdeu mais do que lucrou
-
-"Lúcido no Curral" – o jogador desistiu no lucro
+Mostrar a porcentagem dele ganhar
 
 # 🔗 REFERÊNCIAS INICIAS
 Design inspirado em grandes cassinos digitais, mas com ícones de boizinho (talvez com a estetica do professor Boi).
 
 Também inspirado no livro "O jogador" escrito por Dostoiévski. Onde o autor explora quase como uma autobiografia seu relacionamento abussivo com os jogos de azar. Dando assim, repertório para a criação do jogo e do personagem moderador: o Boizinho!
 
-Humor ágil e irônico, como em Rick and Morty ou South Park, onde o entretenimento anda de mãos dadas com crítica social.
+Humor ágil e irônico, como em Rick and Morty ou South Park, onde o entretenimento anda junto com a crítica social.
 
 Base legal pode incluir links para políticas de jogo responsável e um manifesto claro: "Este jogo existe para divertir, mas também para mostrar como você nunca aposta contra o sistema — você aposta dentro dele."
 
 # 🎭 Personagens
-🐮 O mascote oficial e porta-voz do sistema é o Professor Boi, Sarcástico, cruelmente honesto e cheio de frases tipo: “Você jogou? Parabéns. O sistema também. E adivinha quem ganhou de novo?” (Isso é muito o que o Ederson(Boi) falaria na sala de aula hahaha)
+🐮 O mascote oficial e porta-voz do sistema é o Professor Boi, Sarcástico, cruelmente honesto e cheio de frases tipo: “Você jogou? Parabéns. O sistema também. E adivinha quem ganhou de novo?” (Isso é muito o que o Ederson (Boi) falaria na sala de aula hahaha)
 
 💻 A Casa – Vai ter uma logo que iremos criar talvez como referencia a logo da cerveja caracu (logo antiga)
 
@@ -93,44 +79,6 @@ Ganhos, perdas e saldo líquido
 Chance de vitória da próxima rodada (com sarcasmo incluso) <- Sarcasmo vai ser a base do nosso jogo, da pra se perceber hahaha
 
 Frases educacionais debochadas que esfregam a realidade na tela
-
-O HUD exibe constantemente:
-
-RTP individual e global
-
-Gráfico de lucro da casa
-
-Simulações de perda em longo prazo
-
-"Fator Engano" — uma barra que cresce quando o jogador começa a se iludir
-
-Agora você se pergunta, o que seria esse "Fator Engano"? Então, basicamente o Fator Engano — é o melhor amigo do apostador confiante e o pior inimigo das planilhas de esperança.
-
-No universo do Bet do Boizinho, o Fator Engano é uma barra (ou indicador animado) que mede, de forma sarcástica e visual, o quanto o jogador está se iludindo naquele momento da sessão. Ele funciona como um termômetro emocional-irônico que cresce conforme o jogador:
-
-Continua jogando após várias derrotas acreditando que “agora vai”
-
-Repete estratégias fracassadas esperando resultados diferentes
-
-Aumenta o valor da aposta pra recuperar perdas
-
-Ignora avisos visuais como “Você perdeu 9 das últimas 10”
-
-Se recusa a sair mesmo quando está positivo
-
-Exemplos de níveis do Fator Engano™:
-Nível 1 — Confiante Inocente: "Talvez hoje seja meu dia."
-
-Nível 3 — Teimoso Profissional: "Não é possível, o jogo tá virando."
-
-Nível 5 — Mestre do Autoengano: "Já investi demais pra parar agora."
-
-Nível 7 — Iludido Honorário™: "A estatística não me conhece."
-
-Nível 10 — Patrocinador Oficial da Casa: "Ganhar é só questão de fé."
-
-O toque final? Quando o Fator Engano atinge o nível máximo, nosso Algoritmo vai mandar: > “Parabéns! Você acaba de desbloquear o modo Ilusão Completa. Aproveite a vista enquanto a estatística termina o serviço.”
-
 # 🎯 Objetivos
 
 Para o jogador:

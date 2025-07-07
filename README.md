@@ -3,7 +3,7 @@
 ## Universo
 🐮 Bet do Boizinho — O único lugar onde a esperança deposita e a estatística saca.
 # 🌐 UNIVERSO
-O jogador entra na "arena digital", uma plataforma 100% digital onde o visual mistura estética rural com tecnologias futuristas, como painéis LED, hologramas e animações 3D dos “boizinhos". Mas tudo isso tem um pano de fundo maior: um sistema que mostra com todas as letras como a casa sempre sai ganhando.
+O jogador entra na "arena digital", uma plataforma 100% digital onde o visual mistura estética rural com tecnologias futuristas, como painéis LED, hologramas e animações 2D dos “boizinhos". Mas tudo isso tem um pano de fundo maior: um sistema que mostra com todas as letras como a casa sempre sai ganhando.
 
 Painéis espalhados mostram:
 
